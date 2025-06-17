@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Septian Fahmi Ardiansyah !</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/kristokeith?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kristokeith?style=social)<img src="https://komarev.com/ghpvc/?username=kristokeith" alt="kristokeith" />
+![GitHub followers](https://img.shields.io/github/followers/kristokeith?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kristokeith?style=social)<img src="https://komarev.com/ghpvc/?username=kristokeith" alt="fahmiynsyh" />
 
 
 <!-- Trophy GITHUB -->
@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning at [Politeknik Negeri Malang](https://www.polinema.ac.id/)
-- 📫 How to reach me: **septianfahmi888@gmail.com**
+- 📫 How to reach me: **fahrisepti888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
